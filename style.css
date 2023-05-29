@@ -1,0 +1,59 @@
+.fundo{
+    float: left;
+    width: 400px;
+    height: 1200px;
+    background-color: lightgray;
+}
+.fundinho{
+    position: absolute;
+    top: 50px;
+    left: 22px;
+    width: 370px;
+    height: 1100px;
+    background-color: rgb(90, 90, 68);
+    border-radius: 25px;
+}
+.cleitonome{
+    position: absolute;
+    top: 30px; 
+    left: 80px; 
+
+}
+.god{
+    width: 55px;
+    border-radius: 55px;
+    position: absolute;
+    top: 15px;
+    left:20px  ;
+}
+.add1{
+    position: relative;
+    top: 30px;  
+    left: 170px;
+}
+.accept1{
+    color: rgb(64, 28, 226);
+    position: absolute;
+    top: 50px;
+    left:80px;
+}
+.decline1{
+    color: rgb(74, 70, 78);
+    position: absolute;
+    top: 50px;
+    left:140px;
+}
+.creito{
+    position: relative;
+    top: 40px;
+}
+.sonico{
+    position: relative;
+    top: 90px;
+}
+.requests{
+    font-size: larger;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
